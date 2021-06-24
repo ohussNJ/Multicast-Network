@@ -1,5 +1,3 @@
-# Comnetsii APIs for Packet. Rutgers ECE423/544
-# Author: Fares Elkhouli, Omar Hussein
 import struct
 import random
 
