@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#Author: Dr. Abhigyan Sharma, Sumit Maheshwari
 #How to run: sudo python2.7 cleanup.py
 #The scripts clears the host sshd connections and cleans the mininet environment
 
